@@ -1,0 +1,26 @@
+.search {
+    border-radius: 40px;
+    width: 120px;
+    height: 20px;
+    color: blue;
+    background-color: aliceblue;
+    border: 1px solid blue;
+    margin: 10px;
+}
+
+.add {
+    border-radius: 100%;
+    background-color: blue;
+    color: white;
+    border: white;
+    margin: 10px;
+}
+
+.account {
+    background-color: dodgerblue;
+    color: white;
+    padding: 3px 20px;
+    border: 1px solid black;
+    margin: 10px;
+    box-shadow: 3px 3px black;
+}
